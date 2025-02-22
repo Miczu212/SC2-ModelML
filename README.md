@@ -10,7 +10,7 @@ Drugi model traktuje jednostki obu graczy jako osobne cechy modelu co sprawia ż
 W celu użycia modelu należy wczytać plik powtórki z gry starcraft 2, następnie na podstawie tego jak się nauczył będzie próbował przewidzieć zwycięsce w momencie jaki wybierzemy,
 oznacza to że gdyby został stworzony system liczący jednostki w czasie rzeczywistym można by użyć tego modelu do próby przewidzenia tego jaki gracz ma w danym momencie przewage
 
-MODELML
+# MODELML
 This is a project that utilizes the Python library sc2reader.
 
 The goal of the project was to create a model capable of predicting the victory of one of the players based on the number of units they possess.
